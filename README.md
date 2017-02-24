@@ -12,10 +12,10 @@ put your facebook url like
 {% assign sw_facebook_url = 'https://www.facebook.com/MYCINEPLEX' %}
 
 
-{% assign sw_facebook_height = '500' %}
-{% assign sw_facebook_width = '350' %}
-{% assign sw_facebook_face = 'true' %}
-{% assign sw_facebook_header = 'false' %}
+{% assign sw_facebook_height = '500' %}<br>
+{% assign sw_facebook_width = '350' %}<br>
+{% assign sw_facebook_face = 'true' %}<br>
+{% assign sw_facebook_header = 'false' %}<br>
 {% assign sw_facebook_header_hide = 'false' %}
 
 
