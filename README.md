@@ -18,5 +18,7 @@ put your facebook url like<br>
 {% assign sw_facebook_header = 'false' %}<br>
 {% assign sw_facebook_header_hide = 'false' %}
 
+For <a href="https://white-rose-2.myshopify.com/" target="_blank">Demo</a>
+
 
 
